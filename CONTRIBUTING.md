@@ -1,11 +1,11 @@
-# Contributing to <reponame> 
+# Contributing to \<reponame\> 
 
-Contributions to <reponame> are welcome from all!
+Contributions to \<reponame\> are welcome from all!
 
-<reponame> is managed via [git](https://git-scm.com), with the canonical upstream
+\<reponame\> is managed via [git](https://git-scm.com), with the canonical upstream
 repository hosted on [GitHub](http://developercertificate.org/).
 
-<reponame> follows a pull-request model for development.  If you wish to
+\<reponame\> follows a pull-request model for development.  If you wish to
 contribute, you will need to create a GitHub account, fork this project, push a
 branch with your changes to your project, and then submit a pull request.
 
@@ -50,4 +50,4 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 (taken from [developercertificate.org](http://developercertificate.org/))
 
 See [LICENSE](https://github.com/ni/<reponame>/blob/master/LICENSE)
-for details about how <reponame> is licensed.
+for details about how \<reponame\> is licensed.
