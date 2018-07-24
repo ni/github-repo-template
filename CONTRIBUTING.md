@@ -47,7 +47,7 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
        maintained indefinitely and may be redistributed consistent with
        this project or the open source license(s) involved.
 
-(taken from [developercertificate.org](http://developercertificate.org/))
+(taken from [developercertificate.org](https://developercertificate.org/))
 
 See [LICENSE](https://github.com/ni/<reponame>/blob/master/LICENSE)
 for details about how \<reponame\> is licensed.
